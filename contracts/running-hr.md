@@ -33,12 +33,12 @@ Ovaj ugovor defnira obvezu trčanja od strane obveznika, te obvezu isplate novac
         2. Obveznik će biti oslobođen od obaveze trčanja na destinaciji putovanja u slijedećim situacijama.
             1. Putovanje je poslovne prirode.
             2. Putovanje uključuje avionski prijevoz.
-            3. Boravak na destinaciji se velikim dijelom sastoji od dnevnih aktivnosti (fizičke ili društvene) prirode,  ili je prije putovanja bilo očekivanje da će to biti slučaj.
-            4. Radi se o putovanju na plesni festival.
-            5. Radi se o nekakvom drugom tipu putovanja gdje je trčanje nepraktično ili nemoguće.
+            3. Boravak na destinaciji se velikim dijelom sastoji od dnevnih aktivnosti (fizičke ili društvene) prirode, ili je prije putovanja bilo očekivanje da će to biti slučaj.
+            4. U slučaju putovanja na plesni festival.
+            5. U slučaju nekakvog drugog tipa putovanja gdje je trčanje nepraktično ili nemoguće.
         3. Obveznik NEĆE biti oslobođen od obveze trčanja na destinaciji putovanja u slijedećim situacijama.
-            1. Radi se o putovanju u Dugu Resu, u posjet roditeljima.
-            2. Radi se o neformalnom putovanju, sa puno slobodnog vremena i malo dnevnih aktivnosti, pod uvjetom da obveznik ima jednostavnu mogućnost nošenja odjeće na putovanju, jednostavnu mogućnost pranja odjeće za trčanje na destinaciji ako je trajanje putovanja toliko dugo da je nepraktično nositi čistu odjeću za trčanje za svaki dan obaveze trčanja, jednostavnu mogućnost trčanja i jednostavnu mogućnost tuširanja nakon trčanja.
+            1. U slučaju putovanja u Dugu Resu, u posjet roditeljima.
+            2. U slučaju neformalnog putovanju, sa puno slobodnog vremena i malo dnevnih aktivnosti, pod uvjetom da obveznik ima jednostavnu mogućnost nošenja odjeće na putovanju, jednostavnu mogućnost pranja odjeće za trčanje na destinaciji ako je trajanje putovanja toliko dugo da je nepraktično nositi čistu odjeću za trčanje za svaki dan obaveze trčanja, jednostavnu mogućnost trčanja i jednostavnu mogućnost tuširanja nakon trčanja.
     3. U slučaju bolesti obveznika. Bolest mora biti dovoljnog intenziteta da bi obveznika spriječila i u posjetu teretani.
         1. Ovo će obveznik procjenjivati prema vlastitoj savjesti, tako da nakon događaja procjeni da li je stvarno bio dovoljno bolestan, ili je veći faktor bila lijenost.
         2. Ako bolest nije bila dovoljnog intenziteta da opravda izostanak trčanja, obaveza trčanja smatrati će se neopravdano neispunjenom, i aktivirati će se obaveza isplate novaca.
