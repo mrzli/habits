@@ -21,8 +21,8 @@ Ovaj ugovor defnira obvezu trčanja od strane obveznika, te obvezu isplate novac
     1. Obveznik se obavezuje da će trčati 3 puta tjedno. Standardni dani za trčanje biti će: utorak, četvrtak i subota.
     2. U slučaju objektivnih promjena u rasporedu, kao npr. promjena dana funkcionalnog treninga, moguće je promjeniti dan u tjednu tokom kojeg će obveznik trčati.
 4. **Obveza isplate novaca u slučaju nepoštovanja obveze trčanja.**
-    1. U slučaju da obveznik ne trči na dan obaveze trčanja, ili trči, ali je završio sa trčanjem tek u 00:00 slijedećeg dana ili kasnije, obveznik se obavezuje da će treneru isplatiti iznos od 30 Eura.
-    2. U slučaju da obveznik trči na dan obaveze trčanja, i završi sa trčanjem prije 00:00 slijedećeg dana, ali tek u 10:00 na dan obaveze trčanja ili kasnije, obveznik se obavezuje da će treneru isplatiti iznos od 10 Eura.
+    1. U slučaju da obveznik ne trči na dan obaveze trčanja, ili trči, ali je završio sa trčanjem tek u 00:00 slijedećeg dana ili kasnije, obveznik se obavezuje da će vjerovniku isplatiti iznos od 30 Eura.
+    2. U slučaju da obveznik trči na dan obaveze trčanja, i završi sa trčanjem prije 00:00 slijedećeg dana, ali tek u 10:00 na dan obaveze trčanja ili kasnije, obveznik se obavezuje da će vjerovniku isplatiti iznos od 10 Eura.
     3. U slučaju da obveznik trči na dan obaveze trčanja, i završi sa trčanjem prije 10:00 na dan obaveze trčanja, obveznik za taj dan nema obavezu isplate.
 5. **Iznimke.** Obveznik je izuzet od obaveze isplate novaca iako nije trčao na da obaveze u slijedećim situacijama:
     1. Ako obveznik na dan obaveze trčanja planinari, ili se bavi nekom drugom bitnom fizičkom aktivnošću, barem usporedivom sa obavezom trčanja po generalnom efektu i naporu.
@@ -68,10 +68,10 @@ Primjer 1:
 Ako obveznik na dan obaveze trčanja završi sa trčanjem prije 10:00, ne duguje ništa.
 
 Primjer 2:  
-Ako obveznik na dan obaveze trčanja završi sa trčanjem točno u 10:00 ili kasnije, ali prije 00:00 slijedećeg dana, dužan je treneru isplatiti 10 Eura.
+Ako obveznik na dan obaveze trčanja završi sa trčanjem točno u 10:00 ili kasnije, ali prije 00:00 slijedećeg dana, dužan je vjerovniku isplatiti 10 Eura.
 
 Primjer 3:  
-Ako obveznik na dan obaveze trčanja uopće nije trčao, ili je trčao ali je završio sa trčanjem točno u 00:00 ili kasnije slijedećeg dana, dužan je treneru isplatiti 30 Eura.
+Ako obveznik na dan obaveze trčanja uopće nije trčao, ili je trčao ali je završio sa trčanjem točno u 00:00 ili kasnije slijedećeg dana, dužan je vjerovniku isplatiti 30 Eura.
 
 ## Uvjeti raskida
 
