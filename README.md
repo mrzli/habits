@@ -1,8 +1,9 @@
 # Habits
 
-Documents related to my habits.
+Some documents related to habits, processes and chores.
 
-## Contracts
+## Habit Contracts
 
-- Running - ([hr](contracts/running-hr.md)|en)
-- Wasting time (daily) - ([hr](contracts/wasting-time-daily-hr.md)|en)
+- Running - ([hr](habits/contracts/running-hr.md)|en)
+- Getting to Gym on Time - ([hr](habits/contracts/getting-to-gym-on-time-hr.md)|en)
+- Wasting Time (Daily) - ([hr](habits/contracts/wasting-time-daily-hr.md)|en)
