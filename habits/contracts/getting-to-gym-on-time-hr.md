@@ -1,3 +1,5 @@
+[Ugovor je neaktivan]
+
 # Ugovor o obvezi dolaska na privatrni trening
 
 ## Strane
